@@ -1,2 +1,3 @@
-# 20191030-UIT-CSE-
-My first one
+# 20191030-UIT-CSE
+Hello everyone
+             I am Rishikesh from UIT
